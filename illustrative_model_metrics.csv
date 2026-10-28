@@ -1,0 +1,5 @@
+model,MAE_t_ha,RMSE_t_ha,R_squared
+Historical mean baseline,0.62,0.81,0.42
+Linear regression,0.51,0.68,0.58
+Random forest,0.39,0.53,0.73
+Gradient boosting,0.35,0.48,0.78
